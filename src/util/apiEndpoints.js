@@ -1,4 +1,4 @@
-export const BASE_URL = "http://localhost:8080/api/v1.0";
+export const BASE_URL = "https://moneymanager-554116797247.asia-south2.run.app/api/v1.0";
 const CLOUDINARY_CLOUD_NAME = "dquvcusji";
 
 export const API_ENDPOINTS = {
